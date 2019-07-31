@@ -4,5 +4,4 @@
 
 
 --ㄱ--
-
-(https://help.github.com/categories/writing-on-github/)
+https://help.github.com/categories/writing-on-github
